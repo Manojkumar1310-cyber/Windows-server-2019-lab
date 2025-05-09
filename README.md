@@ -42,7 +42,10 @@ Boot onto your VM
 
 
 ![image](https://github.com/user-attachments/assets/f648566b-f173-4506-82ec-7cacc068c362)
+
 Now set Administrator Password
+
+
 
 Now, PC should look like this 
 ![image](https://github.com/user-attachments/assets/2ff32d25-3605-474e-b0c6-ac98509e9c5a)
