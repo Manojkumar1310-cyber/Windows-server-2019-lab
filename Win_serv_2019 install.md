@@ -40,6 +40,9 @@ Boot onto your VM
 ![image](https://github.com/user-attachments/assets/aa2938a3-647a-4e6f-a25b-a91156ecce94)
 ![image](https://github.com/user-attachments/assets/80ecdcfe-284a-4b22-8714-eb8a4cb7593d)
 
+After restart it will look like this 
+
+
 
 ![image](https://github.com/user-attachments/assets/f648566b-f173-4506-82ec-7cacc068c362)
 
