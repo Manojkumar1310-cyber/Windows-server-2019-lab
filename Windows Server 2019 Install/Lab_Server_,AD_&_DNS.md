@@ -47,7 +47,7 @@ Confirm NetBIOS name → Default is DOMAIN
 
 Click Next, then Install. Server will reboot.
 
-![review options](./image/image-26.png)
+![review options](./images/image-26.png)
 
 
 3. Post-Installation Verification
@@ -58,8 +58,8 @@ Open Active Directory Users and Computers (ADUC)
 
 Confirm domain.local is listed
 
-![aduc-verify](./image/image-27.png)
+![aduc-verify](./images/image-27.png)
 
 Open DNS Manager → verify forward/reverse zones
 ![forword lookup zone](./images/image-28.png)
-![Reverse lookup zone](./image/image-29.png)
+![Reverse lookup zone](./images/image-29.png)
