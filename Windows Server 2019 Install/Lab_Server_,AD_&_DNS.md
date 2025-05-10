@@ -36,11 +36,11 @@ Select: Add a new forest
 
 Root domain name: domain.local
 
-![Promote this server](./images/image24.png)
+![Promote this server](./images/image-24.png)
 
 Set Directory Services Restore Mode (DSRM) password
 
-![Restore Mode (DSRM) password](./image/image25.png)
+![Restore Mode (DSRM) password](./image/image-25.png)
 Confirm NetBIOS name → Default is DOMAIN
 
 
