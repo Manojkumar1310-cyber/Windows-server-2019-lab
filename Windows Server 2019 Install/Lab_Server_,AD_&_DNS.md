@@ -40,7 +40,7 @@ Root domain name: domain.local
 
 Set Directory Services Restore Mode (DSRM) password
 
-![Restore Mode (DSRM) password](./image/image-25.png)
+![Restore Mode (DSRM) password](./images/image-25.png)
 Confirm NetBIOS name → Default is DOMAIN
 
 
